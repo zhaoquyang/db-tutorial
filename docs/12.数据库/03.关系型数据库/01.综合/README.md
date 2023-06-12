@@ -20,11 +20,11 @@ hidden: true
 
 ### [SQL Cheat Sheet](02.SqlCheatSheet.md)
 
-![img](https://raw.githubusercontent.com/dunwu/images/dev/snap/20200115160512.png)
+![img](https://github.com/zhaoquyang/images/raw/dev/snap/20200115160512.png)
 
 ### [分库分表基本原理](https://dunwu.github.io/blog/pages/e1046e/)
 
-![img](https://raw.githubusercontent.com/dunwu/images/dev/snap/20200716110854.png)
+![img](https://github.com/zhaoquyang/images/raw/dev/snap/20200716110854.png)
 
 ### [分布式事务基本原理](https://dunwu.github.io/blog/pages/e1881c/)
 
